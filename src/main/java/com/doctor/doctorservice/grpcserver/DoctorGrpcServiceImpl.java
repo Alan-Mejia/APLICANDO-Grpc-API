@@ -63,7 +63,7 @@ public class DoctorGrpcServiceImpl extends doctorServiceGrpc.doctorServiceImplBa
         }
 
         /* El bloque de abajo hace lo mismo que el bloque de arriba, solo esta como ejemplo
-        para ver como se trabaja con el metodo sobrecargado assDoctorsList()  */
+        para ver como se trabaja con el metodo sobrecargado addDoctorsList()  */
 
 //
 //        for (int i=0;i<doctorsGrpcList.size(); i++){
